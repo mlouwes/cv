@@ -2,7 +2,7 @@
 **Senior IT Architect**  
 📍 Regio Twente, Nederland  
 ✉️ mlouwes@gmail.com  
-💼 [Linkedin](https://www.linkedin.com/in/marcellouwes/)
+💼 https://www.linkedin.com/in/marcellouwes/
 
 ---
 ## Content
