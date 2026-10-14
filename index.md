@@ -33,17 +33,17 @@ My coaching approach empower team members to excel and contribute to the overall
 ### IBM
 **Enterprise Data Architect & Agile Project Leader** | *[2007 - Present]*
 
-#### 1. Large-Scale Data Migration & Integration  
+#### 1. Large-Scale Data Migration  
 I led end-to-end data migration strategies for large customer and corporate data domains.
-* **Cloud Insurance Migration:** Acted as Data Architect for a multi-year cloud migration at a tier-1 insurance firm, managing runbooks, production-data staging, and successful multi-release go-lives.
-* **Telecom Core Migrations:** Spearheaded high-volume data migrations, including a 1-billion-record collection data migration with 10 flawless weekend go-lives.
-* **BSS & Master Data Management:** Led onshore and offshore teams at Dutch and Belgian telecom providers to map, script, and execute critical business support system data migrations.
+* **Cloud Insurance Migration:** As a Data Architect led the migration of a cloud migration at a largeinsurance firm, setting up the migration infrastructure, managing successful multi-release go-lives.
+* **Telecom Migrations:** As a Project manager led high-volume data migrations, including a 1-billion-record collection data migration with 10 flawless weekend go-lives.
+* **Master Data Management:** Led onshore and offshore teams at Dutch and Belgian telecom providers to implement new MDM system and migrate to the new system, including integration with multiple CRM systems.
 
 #### 2. Enterprise Data Architecture & Governance  
-I created/designed data topologies, modeling standards, and security overview frameworks for highly regulated industries.
+I created/designed data topologies, data modeling standards.
 * **Cybersecurity Analytics:** Created reporting data models within the Defense sector to provide executive visibility into IT landscapes and cybersecurity risks.
 * **Data Topology:** Collaborated with Oil & Gas executives to analyze critical data elements and define data affinity topologies for modern reporting environments.
-* **Tooling Assessment:** Evaluated enterprise-wide data modeling tools for a major bank, conducting architect interviews to deliver strategic procurement recommendations.
+* **Tooling Assessment:** Evaluated enterprise-wide data modeling tools for a major bank, conducting architect interviews to deliver strategic recommendations.
 
 #### 3. Agile Project Leadership & Tech Transformation  
 I combined roles as Scrum Master, Project Manager, and IT Architect to drive regulatory compliance and innovations.
@@ -89,14 +89,14 @@ I was Part of a specialized research group focused on finite element method (FEM
  
 ## Education
 
-* Applied Mechanics, University of Twente** | *[1987 - 1995]* , Completed a selection of advanced courses tailored to the research field.
-* Applied Physics, Hogeschool Enschede**  | *[1981 – 1987]*  
+** Applied Mechanics, University of Twente**  [1987 - 1995], Completed a selection of advanced courses tailored to the research field.
+** Applied Physics, Hogeschool Enschede**  [1981 – 1987]  
 
 
 ---
 
 
-## Project Portfolio
+## Project Portfolio at IBM
 
 
 | Period | Client | Role | Project & Description | Key Contributions | 
