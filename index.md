@@ -76,7 +76,7 @@ I established a trading and stockholding company for the petrochemical industry.
 
 ---
 
-### University of Twente (UT)
+### University of Twente
 **Research Assistant & Systems/Applications Manager** | *[1987 – 1995]*
 I was Part of a specialized research group focused on finite element method (FEM) and thermo-mechanical forming processes.
 * Co-authored various papers published in international scientific magazines.
@@ -89,10 +89,8 @@ I was Part of a specialized research group focused on finite element method (FEM
  
 ## Education
 
-**Applied Physics, Hogeschool Enschede**  | *[1981 – 1987]*  
-  
-**Applied Mechanics, University of Twente** | *[1987 - 1995]*     
- Completed a selection of advanced courses tailored to the research field.
+* Applied Mechanics, University of Twente** | *[1987 - 1995]* , Completed a selection of advanced courses tailored to the research field.
+* Applied Physics, Hogeschool Enschede**  | *[1981 – 1987]*  
 
 
 ---
