@@ -2,18 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-// Verberg de repository titel en beschrijving in de sidebar
-header h1, header p.view {
+// Verberg de "View on GitHub" en downloadknoppen in de Cayman header
+.page-header .btn {
     display: none !important;
 }
-
-// Verberg de "View on GitHub" knoppen en downloads
-header ul {
-    display: none !important;
-}
-
-// Zorgt ervoor dat de overgebleven tekst netjes aansluit
-header {
-    padding-top: 20px;
-}
-
