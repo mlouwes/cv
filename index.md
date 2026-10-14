@@ -1,4 +1,3 @@
-# Marcel Louwes
 
 **Senior IT Architect**  
 📍 Regio Twente, Nederland  
