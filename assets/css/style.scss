@@ -2,7 +2,21 @@
 ---
 @import "{{ site.theme }}";
 
-// Verberg de "View on GitHub" en downloadknoppen in de Cayman header
+// 1. Verberg de "View on GitHub" en downloadknoppen
 .page-header .btn {
     display: none !important;
+}
+
+// 2. Maak de header compacter (minder hoog)
+.page-header {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+// Zorg dat het op grote computerschermen ook compact blijft
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding-top: 3rem !important;
+        padding-bottom: 3rem !important;
+    }
 }
