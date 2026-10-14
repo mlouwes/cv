@@ -2,21 +2,28 @@
 ---
 @import "{{ site.theme }}";
 
-// 1. Verberg de "View on GitHub" en downloadknoppen
+// 1. Verberg de automatische titel (cv) en ondertiteling volledig
+.page-header .project-name, 
+.page-header .project-tagline {
+    display: none !important;
+}
+
+// 2. Verberg de "View on GitHub" knoppen
 .page-header .btn {
     display: none !important;
 }
 
-// 2. Maak de header compacter (minder hoog)
+// 3. Maak de header ultra-compact (minimale hoogte)
 .page-header {
-    padding-top: 2rem !important;
-    padding-bottom: 2rem !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+    min-height: auto !important;
 }
 
-// Zorg dat het op grote computerschermen ook compact blijft
+// Zorg dat het op grote computerschermen ook ultra-compact blijft
 @media screen and (min-width: 64em) {
     .page-header {
-        padding-top: 3rem !important;
-        padding-bottom: 3rem !important;
+        padding-top: 1.5rem !important;
+        padding-bottom: 1.5rem !important;
     }
 }
