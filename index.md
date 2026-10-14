@@ -34,13 +34,13 @@ My coaching approach empower team members to excel and contribute to the overall
 **Enterprise Data Architect & Agile Project Leader** | *[2007 - Present]*
 
 #### 1. Large-Scale Data Migration & Integration  
-I led end-to-end data migrations and system integration strategies for massive customer and corporate data domains.
+I led end-to-end data migration strategies for large customer and corporate data domains.
 * **Cloud Insurance Migration:** Acted as Data Architect for a multi-year cloud migration at a tier-1 insurance firm, managing runbooks, production-data staging, and successful multi-release go-lives.
 * **Telecom Core Migrations:** Spearheaded high-volume data migrations, including a 1-billion-record collection data migration with 10 flawless weekend go-lives.
 * **BSS & Master Data Management:** Led onshore and offshore teams at Dutch and Belgian telecom providers to map, script, and execute critical business support system data migrations.
 
 #### 2. Enterprise Data Architecture & Governance  
-I designed data topologies, modeling standards, and security overview frameworks for highly regulated industries.
+I created/designed data topologies, modeling standards, and security overview frameworks for highly regulated industries.
 * **Cybersecurity Analytics:** Created reporting data models within the Defense sector to provide executive visibility into IT landscapes and cybersecurity risks.
 * **Data Topology:** Collaborated with Oil & Gas executives to analyze critical data elements and define data affinity topologies for modern reporting environments.
 * **Tooling Assessment:** Evaluated enterprise-wide data modeling tools for a major bank, conducting architect interviews to deliver strategic procurement recommendations.
