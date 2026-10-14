@@ -89,7 +89,7 @@ I was Part of a specialized research group focused on finite element method (FEM
  
 ## Education
 
-** Applied Mechanics, University of Twente**  [1987 - 1995], Completed a selection of advanced courses tailored to the research field.
+** Applied Mechanics, University of Twente**  [1987 - 1995], Completed a selection of advanced courses tailored to the research field.  
 ** Applied Physics, Hogeschool Enschede**  [1981 – 1987]  
 
 
