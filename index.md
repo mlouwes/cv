@@ -104,13 +104,12 @@ I was Part of a specialized research group focused on finite element method (FEM
 *	Certified Product Owner 
 * Certified Scrum Master
 * Kanban System Design 
-*	Resolving Difficult Project Management Challenges (Sink or Swim) 
-*	Influencing Skills for Project Managers - The next level 
-*	IBM Design Thinking Personal Skills 
+*	Resolving Difficult Project Management Challenges
+*	Influencing Skills for Project Managers 
+*	IBM Design Thinking
 *	Writing Winning Proposals 
-*	Inspiring Presentation Industry 
-*	Insurance Industry (app. 3 weeks of trainings focussed on Life Insurance) 2020 and before 
-* GDPR 
+*	Inspiring Presentation
+*	GDPR 
 *	Blockchain 
 * IT Architecture Master Class (18 trainings in 2 year program)
 
