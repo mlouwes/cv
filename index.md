@@ -10,8 +10,9 @@
 * [Expertise](#core-expertise)
 * [Professional Experience](#professional-experience)
 * [Education](#education)
-* [Project Portfolio](#project-portfolio)
-  
+* [Trainings](#trainings)
+* [Project Portfolio](#project-portfolio-at-ibm)
+
 ---
 
 ## Profile
@@ -94,7 +95,26 @@ I was Part of a specialized research group focused on finite element method (FEM
 
 
 ---
+## Trainings
+*	Generative and Agentic AI
+*	Future of Data Solution Landscape 
+*	Application Architect Data Platforms (DICE) 
+*	Python, Hadoop, Big Data, Cloud.  
+*	SAFe (Leading SAFe, certified) 
+*	Certified Product Owner 
+* Certified Scrum Master
+* Kanban System Design 
+*	Resolving Difficult Project Management Challenges (Sink or Swim) 
+*	Influencing Skills for Project Managers - The next level 
+*	IBM Design Thinking Personal Skills 
+*	Writing Winning Proposals 
+*	Inspiring Presentation Industry 
+*	Insurance Industry (app. 3 weeks of trainings focussed on Life Insurance) 2020 and before 
+* GDPR 
+*	Blockchain 
+* IT Architecture Master Class (18 trainings in 2 year program)
 
+---
 
 ## Project Portfolio at IBM
 
