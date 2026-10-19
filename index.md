@@ -32,7 +32,7 @@ My coaching approach empowers team members to excel and contribute to the overal
 ## Professional Experience
 
 ### IBM
-**Enterprise Data Architect & Agile Project Leader** | *[2007 - Present]*
+**Data Architect & Agile Project Leader** | *[2007 - Present]*
 
 #### 1. Large-Scale Data Migration  
 I led end-to-end data migration strategies for large customer and corporate data domains.
