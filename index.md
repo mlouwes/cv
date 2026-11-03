@@ -36,7 +36,7 @@ My coaching approach empowers team members to excel and contribute to the overal
 
 #### 1. Large-Scale Data Migration  
 I led end-to-end data migration strategies for large customer and corporate data domains.
-* **Cloud Insurance Migration:** As a Data Architect led the migration of a cloud migration at a largeinsurance firm, setting up the migration infrastructure, managing successful multi-release go-lives.
+* **Cloud Insurance Migration:** As a Data Architect led the migration of a cloud migration at a large insurance firm, setting up the migration infrastructure, managing successful multi-release go-lives.
 * **Telecom Migrations:** As a Project manager led high-volume data migrations, including a 1-billion-record collection data migration with 10 flawless weekend go-lives.
 * **Master Data Management:** Led onshore and offshore teams at Dutch and Belgian telecom providers to implement new MDM system and migrate to the new system, including integration with multiple CRM systems.
 
