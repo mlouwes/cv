@@ -90,12 +90,13 @@ I was Part of a specialized research group focused on finite element method (FEM
  
 ## Education
 
-**Applied Mechanics, University of Twente**  [1987 - 1995], Completed a selection of advanced courses tailored to the research field.  
-**Applied Physics, Hogeschool Enschede**  [1981 – 1987]  
+* Applied Mechanics, University of Twente  [1987 - 1995], Completed a selection of advanced courses tailored to the research field.  
+* Applied Physics, Hogeschool Enschede  [1981 – 1987]  
+* see additional certificates at [credly](https://www.credly.com/users/marcel-louwes/badges/credly) https://www.credly.com/users/marcel-louwes/badges/credly  
 
 
 ---
-## Trainings
+### Trainings
 *	Generative and Agentic AI
 *	Future of Data Solution Landscape 
 *	Application Architect Data Platforms (DICE) 
@@ -111,8 +112,9 @@ I was Part of a specialized research group focused on finite element method (FEM
 *	Inspiring Presentation
 *	GDPR 
 *	Blockchain 
-* IT Architecture Master Class (18 trainings in 2 year program)
+* IT Architecture Master Class (18 trainings in 2 year program)  
 
+  
 ---
 
 ## Project Portfolio at IBM
