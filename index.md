@@ -119,7 +119,7 @@ I was part of a specialized research group modeling thermo-mechanical forming pr
 ## Project Portfolio at IBM
 
 
-### Mar 2024 - May 2026 | Defense | IT Architect
+> ### Mar 2024 - May 2026 | Defense | IT Architect
 >
 > **IT Security & State of IT**<br>
 > Create an organization-wide overview of IT infrastructure and IT security risks.
