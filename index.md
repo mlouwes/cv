@@ -117,7 +117,7 @@ I was Part of a specialized research group focused on finite element method (FEM
   
 ---
 
-## Project Portfolio at IBM
+## Project Portfolio at IBM from 2007 onwards
 
 
 | Period | Client | Role | Project & Description | Key Contributions | 
