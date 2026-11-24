@@ -27,13 +27,13 @@ My coaching approach empowers team members to excel and contribute to the overal
 **Data Architect & Agile Project Leader** | *[2007 - Present]*
 
 #### 1. Data Management  
-* **Data Migration:** As a Data Architect led multiple migrations at a large insurance firms, telecom and more, include setting up the migration infrastructure and managing successful multi-release go-lives. This includes high-volume data migrations, for example 1-billion-record collection data migration with 10 flawless weekend go-lives.
-* **Master Data Management:** Led onshore and offshore teams at Dutch and Belgian telecom providers to implement new MDM system and migrate to the new system, including integration with multiple CRM systems.
+* **Data Migration:** As a Data Architect led multiple large and complex migrations at insurance, telecom and other industries, include setting up the migration infrastructure and managing successful multi-release go-lives. This includes high-volume data migrations, for example 1-billion-record collection data migration with 10 flawless weekend go-lives.
+* **Master Data Management:** Led onshore and offshore teams at Dutch and Belgian telecom providers to implement new MDM system and migrate the Master Data to the new MDM system, including integration with multiple CRM systems.
 
 #### 2. Data Architecture & Governance  
 * **Cybersecurity Analytics:** Created data models (conceptual, logical, physical) within the Defense sector to provide executive visibility into IT landscapes and cybersecurity risks.
 * **Data Topology:** Collaborated with Oil & Gas executives to analyze critical data elements and define data affinity topologies for modern reporting environments.
-* **Tooling Assessment:** Evaluated enterprise-wide data modeling tools for a major bank, conducting architect interviews to deliver strategic recommendations.
+* **Tooling Assessment:** Evaluated enterprise-wide data modeling tools for a major bank, conducting interviews to deliver strategic recommendations.
 * **GDPR Assessments** Conducted GDPR assesmments for large retail and banking customers, translating gaps into improvement areas and operational planning, and advised external IT vendors.
 
 #### 3. (Agile) Project Leadership
@@ -86,21 +86,21 @@ I was part of a specialized research group modeling thermo-mechanical forming pr
 
 ---
 ### Trainings
-*	Generative and Agentic AI
-*	Future of Data Solution Landscape 
-*	Application Architect Data Platforms (DICE) 
-*	Python, Hadoop, Big Data, Cloud.  
-*	SAFe (Leading SAFe, certified) 
-*	Certified Product Owner 
+* Generative and Agentic AI
+* Future of Data Solution Landscape 
+* Application Architect Data Platforms (DICE) 
+* Python, Hadoop, Big Data, Cloud.  
+* SAFe (Leading SAFe, certified) 
+* Certified Product Owner 
 * Certified Scrum Master
 * Kanban System Design 
-*	Resolving Difficult Project Management Challenges
-*	Influencing Skills for Project Managers 
-*	IBM Design Thinking
-*	Writing Winning Proposals 
-*	Inspiring Presentation
-*	GDPR 
-*	Blockchain 
+* Resolving Difficult Project Management Challenges
+* Influencing Skills for Project Managers 
+* IBM Design Thinking
+* Writing Winning Proposals 
+* Inspiring Presentation
+* GDPR 
+* Blockchain 
 * IT Architecture Master Class (18 trainings in 2 year program)  
 
   
