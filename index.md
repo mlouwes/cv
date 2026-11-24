@@ -37,7 +37,7 @@ My coaching approach empowers team members to excel and contribute to the overal
 * **GDPR Assessments** Conducted GDPR assesmments for large retail and banking customers, translating gaps into improvement areas and operational planning, and advised external IT vendors.
 
 #### 3. (Agile) Project Leadership
-I combined roles as Scrum Master, Project Manager, and IT Architect to drive innovations.
+I combined the roles Scrum Master, Project Manager and IT Architect to drive innovations.
 * **Blockchain:** Acted as Scrum Master for a large Airline to deliver a Blockchain Proof of Concept for crew certification.
 * **Cashfactory:** Managed infrastructure hosting upgrades and bank migrations for a large Dutch Telco as Project Manager.
 
