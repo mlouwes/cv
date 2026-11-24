@@ -7,7 +7,6 @@
 ---
 ## Content
 * [Profile](#profile)
-* [Expertise](#core-expertise)
 * [Professional Experience](#professional-experience)
 * [Education](#education)
 * [Trainings](#trainings)
@@ -22,34 +21,25 @@ My coaching approach empowers team members to excel and contribute to the overal
 
 ---
 
-## Core Expertise
-* **Data Management:** Large-Scale Data Migration, Master Data Management (MDM), Data Topology, Data Quality, Data Modeling (conceptual, logical, physical), GDPR Compliance, Cybersecurity Analytics.
-* **Leadership & Agile:** Scrum Master, Product Owner, Project Management.
-
----
-
 ## Professional Experience
 
 ### IBM
 **Data Architect & Agile Project Leader** | *[2007 - Present]*
 
-#### 1. Large-Scale Data Migration  
-I led end-to-end data migration projects for large customer and corporate data domains.
-* **Cloud Insurance Migration:** As a Data Architect led the migration of a cloud migration at a large insurance firm, setting up the migration infrastructure, managing successful multi-release go-lives.
-* **Telecom Migrations:** As a Project manager led high-volume data migrations, including a 1-billion-record collection data migration with 10 flawless weekend go-lives.
+#### 1. Data Management  
+* **Data Migration:** As a Data Architect led multiple migrations at a large insurance firms, telecom and more, include setting up the migration infrastructure and managing successful multi-release go-lives. This includes high-volume data migrations, for example 1-billion-record collection data migration with 10 flawless weekend go-lives.
 * **Master Data Management:** Led onshore and offshore teams at Dutch and Belgian telecom providers to implement new MDM system and migrate to the new system, including integration with multiple CRM systems.
 
 #### 2. Data Architecture & Governance  
-I created/designed data topologies, data modeling standards.
-* **Cybersecurity Analytics:** Created reporting data models within the Defense sector to provide executive visibility into IT landscapes and cybersecurity risks.
+* **Cybersecurity Analytics:** Created data models (conceptual, logical, physical) within the Defense sector to provide executive visibility into IT landscapes and cybersecurity risks.
 * **Data Topology:** Collaborated with Oil & Gas executives to analyze critical data elements and define data affinity topologies for modern reporting environments.
 * **Tooling Assessment:** Evaluated enterprise-wide data modeling tools for a major bank, conducting architect interviews to deliver strategic recommendations.
+* **GDPR Assessments** Conducted GDPR assesmments for large retail and banking customers, translating gaps into improvement areas and operational planning, and advised external IT vendors.
 
-#### 3. Agile Project Leadership & Tech Transformation  
-I combined roles as Scrum Master, Project Manager, and IT Architect to drive regulatory compliance and innovations.
-* **GDPR:** Assessed 40+ complex information systems for a major supermarket chain, translating gaps into improvement areas and operational planning, and advised external IT vendors.
+#### 3. (Agile) Project Leadership
+I combined roles as Scrum Master, Project Manager, and IT Architect to drive innovations.
 * **Blockchain:** Acted as Scrum Master for a large Airline to deliver a Blockchain Proof of Concept for crew certification.
-* **Cashfactory:** Managed infrastructure hosting upgrades, digital signature implementations, and bank migrations for a large Dutch Telco as Project Manager.
+* **Cashfactory:** Managed infrastructure hosting upgrades and bank migrations for a large Dutch Telco as Project Manager.
 
 ---
 
